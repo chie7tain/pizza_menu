@@ -1,0 +1,1 @@
+Pizza ordering app built with React and Vite.
